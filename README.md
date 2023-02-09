@@ -1,2 +1,2 @@
-# -inst414.w2.e1
+# INST 414 _ Exercise Repo
 Repository for exercise 1 of INST414
